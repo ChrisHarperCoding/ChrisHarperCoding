@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning ...
 
 Python
+
 Javascript
 
 - 💞️ I’m looking to collaborate on ...
