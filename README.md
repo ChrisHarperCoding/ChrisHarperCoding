@@ -1,7 +1,16 @@
 - 👋 Hi, I’m @ChrisHarperCoding
+
+
 - 👀 I’m interested in ...
+
+
 - 🌱 I’m currently learning ...
+
+Python
+Javascript
+
 - 💞️ I’m looking to collaborate on ...
+- 
 - 📫 How to reach me ...
 
 <!---
