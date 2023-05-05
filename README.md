@@ -5,6 +5,12 @@
 - 👀 I’m interested in ...
 
 
+Drumming
+
+Gaming
+
+Lots of other things
+
 
 - 🌱 I’m currently learning ...
 
@@ -20,6 +26,10 @@ Coding in general
 
 
 - 📫 How to reach me ...
+
+
+GitHub please :)
+
 
 <!---
 ChrisHarperCoding/ChrisHarperCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
