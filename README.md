@@ -5,7 +5,7 @@
 - I’m interested in ...
 
 
-Drumming
+Drumming ✨
 
 Gaming
 
@@ -15,7 +15,7 @@ Lots of other things
 - 🌱 I’m currently learning ...
 
 
-**Python**
+**Python** ✨
 
 Javascript
 
@@ -30,7 +30,7 @@ Coding in general
 
 GitHub please for now? 
 
-If you could * anything of interest, that would be much appreciated ✨ thanks ✨
+If you could * anything of interest, that would be much appreciated thanks :)
 
 <!---
 ChrisHarperCoding/ChrisHarperCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
