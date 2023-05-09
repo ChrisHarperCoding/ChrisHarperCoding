@@ -15,7 +15,7 @@ Lots of other things
 - 🌱 I’m currently learning ...
 
 
-Python **BOLD**
+**Python**
 
 Javascript
 
