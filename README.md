@@ -2,7 +2,7 @@
 
 
 
-- 👀 I’m interested in ...
+- I’m interested in ...
 
 
 Drumming
@@ -22,10 +22,10 @@ Javascript
 Coding in general
 
 
-- 💞️ I’m looking to collaborate on ...
+- I’m looking to collaborate on ...
 
 
-- 📫 How to reach me ...
+- How to reach me ...
 
 
 GitHub please for now? 
