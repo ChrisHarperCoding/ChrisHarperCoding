@@ -23,6 +23,7 @@ Coding in general
 
 
 - I’m looking to collaborate on ...
+- **Interesting projects** ✨
 
 
 - How to reach me ...
